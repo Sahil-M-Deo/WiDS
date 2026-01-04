@@ -13,5 +13,6 @@
   - Slippery Walk
   - Frozen Lake
 - Automated the construction of MDPs in **Python**
+- Learned key **financial market terms** such as *Open* and *Adjusted Close*, and implemented a **simple moving average–based trading strategy**
 - Learned to use GitHub to make this repo
 - Learned to use Markdown editor to write this README file
